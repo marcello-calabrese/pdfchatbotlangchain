@@ -1,0 +1,11 @@
+pandas
+matplotlib
+plotly
+PyPDF2
+langchain
+streamlit
+wordcloud
+nltk
+openai
+faiss-cpu
+regex
