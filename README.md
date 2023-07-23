@@ -7,7 +7,7 @@ The full project is explained in my Medium article just published [here](https:/
 
 Also the quick demo video is below:
 
-[![Demo Video]
+https://github.com/marcello-calabrese/pdfchatbotlangchain/assets/74682725/d8c09937-a15c-4b4d-ba6d-311035090b8b
 
-(https://www.youtube.com/watch?v=qT5__rtPImg "Watch the demo: 55")
+
 
