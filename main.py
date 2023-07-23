@@ -49,7 +49,7 @@ with col1:
             with st.spinner("Thinking..."):
                 
                     
-                st.write(get_answer(index, query))
+                st.success(get_answer(index, query))
                 
                                                           
 
