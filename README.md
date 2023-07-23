@@ -7,4 +7,7 @@ The full project is explained in my Medium article just published [here](https:/
 
 Also the quick demo video is below:
 
-<iframe width="2537" height="1134" src="https://www.youtube.com/embed/qT5__rtPImg" title="Streamlit Langchain PDF Dashboard Chatbot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Demo Video]
+
+(https://www.youtube.com/watch?v=qT5__rtPImg "Watch the demo: 55")
+
